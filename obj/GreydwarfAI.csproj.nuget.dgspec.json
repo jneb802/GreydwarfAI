@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\ValheimModding\\ModDevelopment\\New folder\\GreydwarfAI\\GreydwarfAI.csproj",
-        "projectName": "GreydwarfAI",
+        "projectName": "MyFirstPlugin",
         "projectPath": "C:\\ValheimModding\\ModDevelopment\\New folder\\GreydwarfAI\\GreydwarfAI.csproj",
         "packagesPath": "C:\\Users\\jneb8\\.nuget\\packages\\",
         "outputPath": "C:\\ValheimModding\\ModDevelopment\\New folder\\GreydwarfAI\\obj\\",
